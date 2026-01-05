@@ -22,7 +22,7 @@ I still own this game because it's the last game I worked on, and selling it for
 in typical roblox fashion got old. I love it and I'm proud of it in all it's blocky, pixelated glory.
 
 ### Infinitree
-Not released, just a concept I was working on and am actively working on.
+Not released, just a concept I was working on.
 Around when AI came into the Roblox ecosystem, and I've used this complex idea to experiment with AI agents.
 ..essentially a game where upgrades are seperated into branches with individual currencies and--  
 --passive growth from other currencies (interactions) and upgrades (addition and multiplication).
