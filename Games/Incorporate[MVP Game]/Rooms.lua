@@ -1,3 +1,5 @@
+-- For all intents and purposes in the portfolio, this file stands as a API/connectivity project.
+
 -- This is the script for room/lobby management of "Incorporate" (My fav game I've ever made, only one I still own as I never published it to SupStudios)
 -- made with goal of simplifying the representation of room data accross scripts and with the UI
 -- Does not focus on optomization as servers contain <25 players and this is definitely performant enough.

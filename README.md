@@ -1,6 +1,8 @@
 # Roblox Development Portfolio
 
 This repository contains a curated selection of scripts and systems I've developed for various Roblox games. The focus is on showcasing clean, efficient code that solves common game development challenges in the Roblox ecosystem.
+.  
+To recruiters, this is just the core functionalities i've typically worked with.  
 
 ## Anti-Cheat Solutions
 
