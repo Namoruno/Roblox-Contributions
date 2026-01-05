@@ -1,4 +1,4 @@
--- This is the script for room/lobby management of "Incorporate"
+-- This is the script for room/lobby management of "Incorporate" (My fav game I've ever made, only one I still own as I never published it to SupStudios)
 -- made with goal of simplifying the representation of room data accross scripts and with the UI
 -- Does not focus on optomization as servers contain <25 players and this is definitely performant enough.
 -- Meant to be understood by any dev if they choose to join the team!
@@ -19,7 +19,7 @@ remotes.TeleportRoom.OnServerEvent:Connect(function(plr, room)
 			MapSize=room.MapSize.Value,
 			StartingCash=room.StartingCash.Value,
 		}
-        
+
 		for i,v in pairs(room.Players:GetChildren()) do
 			local partyMember:Player = game.Players[v.Name]
 			local CompanyColor = partyMember.CompanyColor.Value

@@ -1,3 +1,8 @@
+-- Bandaid Eco Equity, definitely not an anti cheat in the true sense of moderation
+-- but enables discovery of what users are doing that creates exceptional growth
+-- Perfect for mid level games (couple hundred players, a buy offer or two),
+-- useful for curating a sims' realistic long term growth models
+
 local EquityService = {}
 
 -- [[ CONFIGURATION ]]
